@@ -1,4 +1,3 @@
-//let menu = document.getElementById('menu-icon');
 let navbar = document.getElementById('navbar');
 let check = document.getElementById('check');
 check.addEventListener('change',() => {
